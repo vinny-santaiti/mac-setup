@@ -1,5 +1,7 @@
 # mac-setup
 
+xcode-select --install
+
 brew install git python3 tree vim rabbitmq erlang docker docker-machine postgresql perl ruby htop httpie
 
 Applications
