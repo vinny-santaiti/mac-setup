@@ -16,3 +16,4 @@ Applications
 - kitematic - https://kitematic.com/
 - iterm - https://www.iterm2.com/downloads.html
 - sublimetext - https://www.sublimetext.com/
+- time out - https://apps.apple.com/us/app/time-out-break-reminders/id402592703?mt=12
