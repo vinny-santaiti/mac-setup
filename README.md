@@ -3,6 +3,7 @@
 xcode-select --install
 
 brew install git python3 tree vim rabbitmq erlang docker docker-machine postgresql perl ruby htop httpie awscli
+brew cask install firefox
 
 Applications
 - pycharm - https://www.jetbrains.com/pycharm/download/#section=mac
