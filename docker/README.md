@@ -1,4 +1,5 @@
-# Dockerfile
+```
+Dockerfile
 FROM python:3
 
 RUN pip3 install flask
@@ -31,7 +32,9 @@ docker run \
 # web browser: localhost:8080
 
 # stop daemon process and docker container
-# docker stop container_name
+docker stop container_name
 
-# access container to run cmd
-# docker exec -it confident_carson /bin/bash
+# find container name then access container to run cmd
+docker container ps
+docker exec -it container_name /bin/bash
+```
