@@ -35,6 +35,6 @@ docker run \
 docker stop container_name
 
 # find container name then access container to run cmd
-docker container ps
+docker ps
 docker exec -it container_name /bin/bash
 ```
