@@ -20,7 +20,11 @@ docker run \
     -v $(pwd):/src \
     python_flask
 
-# docker container ls
+# find container name
+docker container ls
+# or
+docker ps
+
 # -p = share host port 8080 to container port 80
 # -d = start container in background process
 docker run \
@@ -31,9 +35,6 @@ docker run \
     nginx:latest
 
 # web browser: localhost:8080
-
-# find container name
-docker ps
 
 # stop daemon process and docker container
 docker stop container_name
