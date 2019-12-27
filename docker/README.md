@@ -1,5 +1,5 @@
 ```
-Dockerfile
+# Dockerfile
 FROM python:3
 
 RUN pip3 install flask
@@ -12,9 +12,8 @@ docker build \
     .
 
 # -it = run cmd line interpreter in container
-# -v = mount pwd to container folder: /src
+# -v = mount current host directory to container folder: /src
 # --rm = remove container after cmd is finished running
-# -d = start container in background process
 docker run \
     --rm \
     -it \
@@ -22,6 +21,8 @@ docker run \
     python_flask
 
 # docker container ls
+# -p = share host port 8080 to container port 80
+# -d = start container in background process
 docker run \
     --rm \
     -d \
@@ -31,10 +32,12 @@ docker run \
 
 # web browser: localhost:8080
 
+# find container name
+docker ps
+
 # stop daemon process and docker container
 docker stop container_name
 
-# find container name then access container to run cmd
-docker ps
+# access container and run cmd
 docker exec -it container_name /bin/bash
 ```
