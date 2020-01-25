@@ -1,3 +1,4 @@
+# pip install boto3==1.4.8
 import boto3
 
 bucket = 'bucket_name'
