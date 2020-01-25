@@ -16,5 +16,5 @@ for file in files:
 
 s3 = boto3.resource('s3')
 bucket = s3.Bucket(bucket)
-for obj in bucket.objects.filter(Prefix=prefix):
+for obj in bucket.objects.filter(Prefix=prefix):  # bucket.objects.all()
     print(obj.key)
