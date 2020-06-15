@@ -16,4 +16,5 @@ Applications
 - iterm - https://www.iterm2.com/downloads.html
 - sublimetext - https://www.sublimetext.com/
 - time out - https://apps.apple.com/us/app/time-out-break-reminders/id402592703?mt=12
-- zoom https://zoom.us/download
+- zoom - https://zoom.us/download
+- soqlxplorer - https://www.pocketsoap.com/osx/soqlx/#Download
