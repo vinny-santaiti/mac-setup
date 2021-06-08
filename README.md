@@ -21,3 +21,4 @@ Applications
 - soqlxplorer - https://www.pocketsoap.com/osx/soqlx/#Download
 - homebrew 3.0.4 - https://appletoolbox.com/install-homebrew-on-mac/
 - cpu temp monitor - https://github.com/DanielStormApps/Fanny
+- postgres server 13.0 running as brew service
