@@ -6,15 +6,18 @@ xcode-select --install
 - brew cask install firefox pycharm-ce dbeaver-community docker slack sublime-text 
 
 Applications
-- pycharm - https://www.jetbrains.com/pycharm/download/#section=mac
-- sourcetree - https://www.sourcetreeapp.com/
+- pycharm community 2021 - https://www.jetbrains.com/pycharm/download/#section=mac
+- sourcetree 4.0.1 - https://www.sourcetreeapp.com/
 - flux - https://justgetflux.com/
-- virtualbox - https://www.virtualbox.org/wiki/Downloads
-- pgadmin4 - https://www.pgadmin.org/download/
-- dbeaver - https://dbeaver.io/download/
-- docker - https://docs.docker.com/docker-for-mac/install/
+- virtualbox 6.1 - https://www.virtualbox.org/wiki/Downloads
+- pgadmin4 4.22 - https://www.pgadmin.org/download/
+- dbeaver 21.0 - https://dbeaver.io/download/
+- docker desktop 3.3.3 - https://docs.docker.com/docker-for-mac/install/
+- running containers: 1) rabbitmq 3.8.9 management 2) sql server 2017 latest   
 - iterm - https://www.iterm2.com/downloads.html
-- sublimetext - https://www.sublimetext.com/
+- sublimetext 4 - https://www.sublimetext.com/download
 - time out - https://apps.apple.com/us/app/time-out-break-reminders/id402592703?mt=12
-- zoom - https://zoom.us/download
+- zoom 5.6.1 - https://zoom.us/download
 - soqlxplorer - https://www.pocketsoap.com/osx/soqlx/#Download
+- homebrew 3.0.4 - https://appletoolbox.com/install-homebrew-on-mac/
+- cpu temp monitor - https://github.com/DanielStormApps/Fanny
