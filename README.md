@@ -2,6 +2,7 @@
 
 xcode-select --install
 
+https://brew.sh/
 - brew install git python3 tree vim rabbitmq erlang docker docker-machine postgresql perl ruby htop httpie awscli
 - brew cask install firefox pycharm-ce dbeaver-community docker slack sublime-text atom insomnia virtualbox
 
