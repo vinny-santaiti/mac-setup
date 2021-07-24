@@ -9,6 +9,7 @@ https://brew.sh/
 Applications
 - pycharm community 2021 - https://www.jetbrains.com/pycharm/download/#section=mac
 - sourcetree 4.0.1 - https://www.sourcetreeapp.com/
+- github desktop - https://desktop.github.com/
 - flux - https://justgetflux.com/
 - virtualbox 6.1 - https://www.virtualbox.org/wiki/Downloads
 - pgadmin4 4.22 - https://www.pgadmin.org/download/
