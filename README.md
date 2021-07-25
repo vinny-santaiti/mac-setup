@@ -25,3 +25,4 @@ Applications
 - cpu temp monitor - https://github.com/DanielStormApps/Fanny
 - postgres server 13.0 running as brew service
 - vagrant 2.2.14 https://www.vagrantup.com/downloads
+- aws cli https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2-mac.html#cliv2-mac-install-gui
