@@ -7,7 +7,8 @@ https://brew.sh/
 - brew cask install firefox pycharm-ce dbeaver-community docker slack sublime-text atom insomnia virtualbox
 
 Applications
-- pycharm community 2021 - https://www.jetbrains.com/pycharm/download/#section=mac
+- iterm2 https://iterm2.com/index.html
+- pycharm community - https://www.jetbrains.com/pycharm/download/#section=mac
 - github desktop - https://desktop.github.com/
 - virtualbox - https://www.virtualbox.org/wiki/Downloads
 - pgadmin4 - https://www.pgadmin.org/download/
