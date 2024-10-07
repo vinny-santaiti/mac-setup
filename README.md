@@ -3,8 +3,11 @@
 xcode-select --install
 
 https://brew.sh/
-- brew install git python3 tree vim docker postgresql ruby htop httpie awscli pyenv redis
-- brew cask install firefox pycharm-ce dbeaver-community docker slack sublime-text atom insomnia virtualbox
+- brew install git python3 tree vim docker postgresql ruby htop pyenv pyenv-virtualenv sqlite
+                    httpie awscli pyenv redis QEMU freetds sevenzip python@3.12
+- brew cask install firefox pycharm-ce dbeaver-community docker slack visual-studio-code
+                  sublime-text atom insomnia virtualbox pgadmin4 pycharm-ce lastpass github
+                  hashicorp-vagrant iterm2 soqlxplorer
 
 Applications
 - iterm2 https://iterm2.com/index.html
