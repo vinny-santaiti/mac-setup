@@ -26,4 +26,3 @@ Applications
 - vagrant - https://www.vagrantup.com/downloads
 - aws cli https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2-mac.html#cliv2-mac-install-gui
 - zsh shell, oh-my-zsh theme, autosuggestions plugin
-- fanny - measure cpu fan temp
